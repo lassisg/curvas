@@ -1,0 +1,57 @@
+IEC/UK
+t = TMS * (B/(M^a - 1))
+TMS = 0,025 - 1,2
+
+-----------------------------------------------------------------------
+
+ANSI/IEEE/US
+t = TD * ( (B/(M^a - 1)) + L)
+TD = 0,01 - 100
+
+-----------------------------------------------------------------------
+
+t =	Tempo de operação
+TMS =	Time multiplier setting (IEC/UK)
+TD =	Time dial setting (IEEE/US)
+B =	Constante
+M =	I/Is
+I =	Corrente aplicada
+Is =	Corrente ajustada de pickup
+a =	Constante
+L =	Constante ANSI/IEEE (0 para curvas IEC/US)
+
+-----------------------------------------------------------------------
+				B		a	L
+IEC	Standard Inverse	0,14		0,02	0
+IEC	Very Inverse		13,5		1	0
+IEC	Extremely Inverse	80		2	0
+UK	Long Time Inverse	120		1	0
+UK	Rectifier		45900		5,6	0
+IEEE	Moderately Inverse	0,0515		0,02	0,114
+IEEE	Very Inverse		19,61		2	0,491
+IEEE	Extremely Inverse	28,2		2	0,1217
+US	Inverse			5,95		2	0,18
+US 	Short Time Inverse	0,16758		0,02	0,11858
+
+
+Case ComboBox2.ItemIndex of
+            0:  Begin
+                  Edit4.Text:=('ANSI MI');
+                  Edit5.Text:=('ANSI MI');
+                  Edit6.Text:=('ANSI MI');
+                End;
+            1:  Begin
+                  Edit4.Text:=('ANSI NI');
+                  Edit5.Text:=('ANSI NI');
+                  Edit6.Text:=('ANSI NI');
+                End;
+            2:  Begin
+                  Edit4.Text:=('ANSI VI');
+                  Edit5.Text:=('ANSI VI');
+                  Edit6.Text:=('ANSI VI');
+                End;
+            3:  Begin
+                  Edit4.Text:=('ANSI EI');
+                  Edit5.Text:=('ANSI EI');
+                  Edit6.Text:=('ANSI EI');
+                End;
