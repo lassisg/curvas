@@ -1,0 +1,16 @@
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\bin\Curvas_51.exe.manifest
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\bin\Curvas_51.application
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\bin\Curvas_51.exe
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\bin\Curvas_51.pdb
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\bin\Curvas_51.xml
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\obj\Debug\ResolveAssemblyReference.cache
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\obj\Debug\Curvas_51.vbproj.ResolveComReference.cache
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\obj\Debug\Curvas_51.frmCurvas.resources
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\obj\Debug\GenerateResource.read.1.tlog
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\obj\Debug\GenerateResource.write.1.tlog
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\obj\Debug\Curvas_51.TrustInfo.xml
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\obj\Debug\Curvas_51.exe.manifest
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\obj\Debug\Curvas_51.application
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\obj\Debug\Curvas_51.exe
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\obj\Debug\Curvas_51.xml
+E:\Leandro\Pessoal\Programacao\Curvas\Curvas.NET\obj\Debug\Curvas_51.pdb
